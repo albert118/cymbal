@@ -1,0 +1,20 @@
+cmd/hook.go
+  h_2dd16780530a00 1281-1283,1340-1346
+cmd/hook_assets/opencode/cymbal-opencode.v2.test.mjs
+  h_2dd16780530a00 1-581
+cmd/hook_assets/opencode/cymbal-opencode.v2.js
+  h_2dd16780530a00 1-307
+cmd/hook_assets_opencode.go
+  h_2dd16780530a00 10,14-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "98cb3dfaad492e86f32f9a7d0690cd16e1d5809b",
+  "prompts": {},
+  "humans": {
+    "h_2dd16780530a00": {
+      "author": "theQuantumMechanic <albertferguson118@gmail.com>"
+    }
+  }
+}
